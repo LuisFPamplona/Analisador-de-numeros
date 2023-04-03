@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    font: normal 12pt Arial;
+    background-color: cadetblue;
+}
+
+section{
+    background-color: white;
+    margin: auto;
+    width: 500px;
+    min-height: 170px;
+    border-radius: 25px;
+    border-style: solid;
+}
+
+#addbar{
+    text-align: left;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+#selecionados{
+    width: 150px;
+}
